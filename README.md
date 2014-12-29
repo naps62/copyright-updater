@@ -14,8 +14,8 @@ Or just pass along all your repos:
 
 The script will:
 
-* Search for a file with a name matching "LICENSE*"
-* Replace "Copyright XXXX" with Copyright "XXXX-2014"
-* Replace "Copyright XXXX-YYYY" with Copyright "XXXX-2014"
+* Search for a file with a name matching `LICENSE*`
+* Replace `Copyright XXXX` with Copyright `XXXX-2014`
+* Replace `Copyright XXXX-YYYY` with Copyright `XXXX-2014`
 * Commit the license file and push it
 * Warn you for every directory that does not contain a LICENSE file
