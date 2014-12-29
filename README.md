@@ -2,6 +2,8 @@
 
 Get ready for the new year. Update your license files
 
+![explosm](http://files.explosm.net/comics/Rob/newyears-2014.gif)
+
 ## Usage
 
 Pass as arguments the path to a git repo containing a LICENSE:
